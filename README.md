@@ -11,9 +11,9 @@ And all of it is made by code: no images, no 3D models, no sound files. The whol
 
 ## Try it
 
-1. Download [`index.html`](index.html).
-2. Open it in **Chrome** or **Edge** on a desktop computer.
-3. Wait a few seconds while the world is built, then press **Dive in** and start swimming.
+1. Download [`Costa_Kiesa_2.0.14.html`](Costa_Kiesa_2.0.14.html).
+2. Open it in **Chrome** or **Edge** or **Firefox** on a desktop computer.
+3. Wait a few seconds while the world is built, then press **Dive** or **Screensaver** and enjoy.
 
 Nothing to install, and it works offline. It needs a browser with **WebGPU**. If you see *"This scene needs WebGPU"*, update your browser or switch to Chrome / Edge.
 
