@@ -3,7 +3,7 @@
 **A dreamy underwater world you can swim through, right in your browser.**
 
 Towering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.
-And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 96 KB HTML file**.
+And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 182 KB HTML file**.
 
 ![Kelp forest with a stone whale tail and a manta ray](.github/screenshots/whale-fluke.jpg)
 
