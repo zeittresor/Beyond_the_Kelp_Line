@@ -7,7 +7,7 @@ And all of it is made by code: no images, no 3D models, no sound files. The whol
 
 ![Kelp forest with a stone whale tail and a manta ray](.github/screenshots/whale-fluke.jpg)
 
-<img width="2560" height="1080" alt="2026-11-16 21_22_47-Greenshot" src="https://github.com/user-attachments/assets/22092daa-12d8-4eb7-8ea4-02e947aebb1e" />
+<img width="2560" height="1080" alt="2026-11-18 06_32_38-Greenshot" src="https://github.com/user-attachments/assets/d66cb687-4c9e-490e-af9c-79e35cc46635" />
 
 ## Try it
 
