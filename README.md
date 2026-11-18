@@ -5,9 +5,9 @@
 Towering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.
 And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 293 KB HTML file**.
 
-![Kelp forest with a stone whale tail and a manta ray](.github/screenshots/whale-fluke.jpg)
+<img width="2560" height="1080" alt="2026-11-18 06_32_38-Greenshot" src="https://github.com/user-attachments/assets/ee1f1e53-de28-46b4-b46c-34ef48103afc" />
 
-<img width="2560" height="1080" alt="2026-11-18 06_32_38-Greenshot" src="https://github.com/user-attachments/assets/d66cb687-4c9e-490e-af9c-79e35cc46635" />
+![Kelp forest with a stone whale tail and a manta ray](.github/screenshots/whale-fluke.jpg)
 
 ## Try it
 
