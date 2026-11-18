@@ -3,7 +3,7 @@
 **A dreamy underwater world you can swim through, right in your browser.**
 
 Towering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.
-And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 293 KB HTML file** (later versions might change).
+And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 293 KB HTML file (in v2.0.16)** (later versions might change that).
 
 <img width="2560" height="1080" alt="710170152-ee1f1e53-de28-46b4-b46c-34ef48103afc" src="https://github.com/user-attachments/assets/e2d9dd97-f30d-40f8-a784-26e9ef11e1df" />
 <img width="2560" height="1080" alt="2026-11-18 18_52_06-Greenshot" src="https://github.com/user-attachments/assets/6b206345-55e7-42a1-8233-49e386cb6ff2" />
