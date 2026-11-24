@@ -1,9 +1,9 @@
-# Abyssal Garden - Extended Costa Kiesa Version
+# Abyssal Garden - Extended Beyond the Kelp Line Version
 
 **A dreamy underwater world you can swim through, right in your browser.**
 
 Towering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.
-And all of it is made by code: no images, no 3D models, no sound files. The whole world fits in **one 293 KB HTML file (in v2.0.16)** (later versions might change that).
+And all of it is made by code: no images, no 3D models, no sound files.
 
 <img width="2560" height="1080" alt="710170152-ee1f1e53-de28-46b4-b46c-34ef48103afc" src="https://github.com/user-attachments/assets/e2d9dd97-f30d-40f8-a784-26e9ef11e1df" />
 <img width="2560" height="1080" alt="2026-11-18 18_52_06-Greenshot" src="https://github.com/user-attachments/assets/6b206345-55e7-42a1-8233-49e386cb6ff2" />
@@ -11,7 +11,7 @@ And all of it is made by code: no images, no 3D models, no sound files. The whol
 
 ## Try it
 
-1. Download [`Costa_Kiesa_2.0.19.html`](Costa_Kiesa_2.0.19.html).
+1. Download [`Beyond_the_Kelp_Line_2.0.22.html`](Beyond_the_Kelp_Line_2.0.22.html).
 2. Open it in **Chrome** or **Edge** or **Firefox** on a desktop computer.
 3. Wait a few seconds while the world is built, then press **Dive** or **Screensaver** and enjoy.
 
