@@ -5,6 +5,7 @@
 Towering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.
 And all of it is made by code: no images, no 3D models, no sound files.
 
+<img width="2560" height="1080" alt="2026-11-24 10_27_07-Greenshot" src="https://github.com/user-attachments/assets/ce7707d7-e0fc-4b7d-8b95-718e1c46243d" />
 <img width="2560" height="1080" alt="710170152-ee1f1e53-de28-46b4-b46c-34ef48103afc" src="https://github.com/user-attachments/assets/e2d9dd97-f30d-40f8-a784-26e9ef11e1df" />
 <img width="2560" height="1080" alt="2026-11-18 18_52_06-Greenshot" src="https://github.com/user-attachments/assets/6b206345-55e7-42a1-8233-49e386cb6ff2" />
 <img width="2560" height="1080" alt="2026-11-18 18_53_50-Greenshot" src="https://github.com/user-attachments/assets/7e8ab920-5eff-46fa-8efe-d7db05358587" />
