@@ -12,7 +12,7 @@ And all of it is made by code: no images, no 3D models, no sound files.
 
 ## Try it
 
-1. Download [`Beyond_the_Kelp_Line_2.0.30.html`](Beyond_the_Kelp_Line_2.0.30.html).
+1. Download [`Beyond_the_Kelp_Line_2.0.32.html`](Beyond_the_Kelp_Line_2.0.32.html).
 2. Open it in **Chrome** or **Edge** or **Firefox** on a desktop computer.
 3. Wait a few seconds while the world is built, then press **Dive** or **Screensaver** and enjoy.
 
