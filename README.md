@@ -11,7 +11,7 @@ Towering kelp forests, sunbeams pouring through a rippling surface, a sunken shi
 
 ## Try it
 
-1. Download [`Beyond_the_Kelp_Line_2.0.37.html`](Beyond_the_Kelp_Line_2.0.37.html) or start it directly at https://beyond-the-kelp-line.zeittresor.de/
+1. Download [`Beyond_the_Kelp_Line_2.0.72.html`](Beyond_the_Kelp_Line_2.0.72.html) or start it directly at https://beyond-the-kelp-line.zeittresor.de/
 2. Open it in **Chrome** or **Edge** or **Firefox** on a desktop computer.
 3. Wait a few seconds while the world is built, then press **Dive** or **Screensaver** and enjoy.
 
