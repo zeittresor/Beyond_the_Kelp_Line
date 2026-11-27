@@ -15,7 +15,7 @@ Towering kelp forests, sunbeams pouring through a rippling surface, a sunken shi
 2. Open it in **Chrome** or **Edge** or **Firefox** on a desktop computer.
 3. Wait a few seconds while the world is built, then press **Dive** or **Screensaver** and enjoy.
 
-Nothing to install, and it works offline. It needs a browser with **WebGPU**. If you see *"This scene needs WebGPU"*, update your browser or switch to Chrome / Edge.
+Nothing to install, and it works offline. It needs a browser with **WebGPU**. If you see *"This scene needs WebGPU"*, update your browser or switch to Chrome / Edge. Do not use this using Smartphone because it could happen that the sound is not working or something like that.
 
 ## What's down there
 
